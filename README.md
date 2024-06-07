@@ -1,4 +1,4 @@
-# edgeComputing
+# EdgeComputing
 Repositório destinado a Global Solution da matéria de Edge Computing
 
 # Monitoramento de Qualidade da Água com Arduino
