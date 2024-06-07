@@ -1,6 +1,11 @@
 # EdgeComputing
 Repositório destinado a Global Solution da matéria de Edge Computing
 
+# ALUNOS: 
+Bruna da Costa Candeias - RM: 558938 
+Marcos Vinicius da Silva Costa - RM:555490
+Lucas Derenze Simidu - RM: 555931
+
 # Monitoramento de Qualidade da Água com Arduino
 
 ## Descrição
